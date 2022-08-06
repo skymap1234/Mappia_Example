@@ -157,7 +157,7 @@
 				<Title>munonono_1m_contours_arc1950</Title>
 				<Abstract>GH:munonono_1m_contours_arc1950 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/skymap1234/Mappia_Example/releases/download/Map_Download/munonono_1m_contours_arc1950.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="34.09626532541758" miny="-10.693537948601904" maxx="34.139921782824494" maxy="-10.652889878439087"></LatLonBoundingBox>
@@ -177,7 +177,7 @@
 				<Title>munonono_ecw_arc1950_0_4m_qc</Title>
 				<Abstract>GH:munonono_ecw_arc1950_0_4m_qc ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="34.09621946429601" miny="-10.693532388418616" maxx="34.139946478307955" maxy="-10.652844596253795"></LatLonBoundingBox>
